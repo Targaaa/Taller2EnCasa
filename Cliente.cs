@@ -1,4 +1,4 @@
-using System.Runtime.CompilerServices;  
+using System.Runtime.CompilerServices;
 public class Cliente
 {
     private string nombre;
@@ -14,8 +14,11 @@ public class Cliente
         this.datosReferenciasDireccion = referencias;
     }
 
-    public string Nombre { get => nombre;}
+    public string Nombre { get => nombre; }
     public string Direccion { get => direccion; }
-    public string Telefono { get => telefono;}
-    public string DatosReferenciasDireccion { get => datosReferenciasDireccion;}
+    public string Telefono { get => telefono; }
+    public string DatosReferenciasDireccion { get => datosReferenciasDireccion; }
+    
+
+    
 }
