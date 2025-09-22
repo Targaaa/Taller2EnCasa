@@ -1,0 +1,15 @@
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\bin\Debug\net8.0\tl2-tp1-2025-Targaaa.exe
+C:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\bin\Debug\net8.0\tl2-tp1-2025-Targaaa.deps.json
+C:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\bin\Debug\net8.0\tl2-tp1-2025-Targaaa.runtimeconfig.json
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\bin\Debug\net8.0\tl2-tp1-2025-Targaaa.dll
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\bin\Debug\net8.0\tl2-tp1-2025-Targaaa.pdb
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.AssemblyInfoInputs.cache
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.AssemblyInfo.cs
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.csproj.CoreCompileInputs.cache
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.sourcelink.json
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.dll
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\refint\tl2-tp1-2025-Targaaa.dll
+c:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.pdb
+C:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\tl2-tp1-2025-Targaaa.genruntimeconfig.cache
+C:\Users\Monica Garcia\Desktop\Fac 2025\Taeller\tl2-tp1-2025-Targaaa\obj\Debug\net8.0\ref\tl2-tp1-2025-Targaaa.dll
